@@ -11,9 +11,9 @@ public class Algorithm {
 
     public static void main(String[] args) {
 //        demo1(1,-2,1);
-//        demo2(1,100);
+        demo2(122,140);
 //        demo3(2005, 0.05, 200, 300);
-        demo4(993,773);
+//        demo4(98,63);
 
     }
 

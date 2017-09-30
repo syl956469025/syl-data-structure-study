@@ -24,7 +24,7 @@ public class OrdArray {
         if (numele == 0){
             arr[numele]=value;
         }else{
-            int index = Math.abs(3 / 2)+1;
+            int index = Math.abs(numele / 2)+1;
             if (arr[index] > value){
 
             }
